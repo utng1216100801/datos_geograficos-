@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,	
+        "latitud": 19.48819,
+        "longitud": -99.13284,
+        "descripcion": "Cadena de comida, artículos, juguetes, camas y ropa para mascotas opciones de servicio. Entrega a domicilio, Retiro en tienda, Compras en tienda, Entrega el mismo día",
+        "venta": 15000,	
+        "zona": "Zona Norte",
+        "nombre": "Petco Fortuna"
+    } ,
+    {
+        "id":2,	
+        "latitud": 19.46315,
+        "longitud": -99.17932,
+        "descripcion": "Tienda de productos para mascotas",
+        "venta": 4862,	
+        "zona": "Zona Centro",
+        "nombre": "Petco"
+    },
+    {
+        "id":3,	
+        "latitud": 19.46370,
+        "longitud":	-99.13284,
+        "descripcion": "Accesibilidad Entrada con acceso para silla de ruedas Estacionamiento con acceso para silla de ruedas",
+        "venta": 2586,	
+        "zona": "Zona Sur",
+        "nombre": "Petco Tlatelolco (Express)"
+    },
+    {
+        "id":4,	
+        "latitud": 19.41769,
+        "longitud": -99.16287,
+        "descripcion": "Entrega a domicilio",
+        "venta": 1250,	
+        "zona": "Zona Centro",
+        "nombre": "Petco Condesa (Express)"
+    },
+    {
+        "id":5,	
+        "latitud": 19.42150,
+        "longitud":	-99.16720,
+        "descripcion": "Tienda de comida para mascotas",
+        "venta": 5322,	
+        "zona": "Zona Norte",
+        "nombre": "Petco Condesa Huichapan"
+    },
+    {
+        "id":6,	
+        "latitud": 19.39808,
+        "longitud":	-99.18134,
+        "descripcion": "Tienda de  camas y ropa para mascotas con entrega el mismo día",
+        "venta": 9300,	
+        "zona": "Zona Sur",
+        "nombre": "Petco Metrópoli (Express)"
+    },
+    {
+        "id":7,	
+        "latitud": 19.35859,
+        "longitud":	-99.17586,
+        "descripcion": "Tienda de artículos y juguetes para mascotas",
+        "venta": 6700,	
+        "zona": "Zona Centro",
+        "nombre": "Petco Mixcoac"
+    },
+    {
+        "id":8,	
+        "latitud": 19.38419,
+        "longitud":	-99.24168,
+        "descripcion": "Tienda de  camas y ropa para mascotas",
+        "venta": 7565,	
+        "zona": "Zona Norte",
+        "nombre": "Petco Patio Santa Fe"
+    },
+    {
+        "id":9,	
+        "latitud": 19.32672,
+        "longitud":	-99.20300,
+        "descripcion": "Entrega el mismo día",
+        "venta": 8000,	
+        "zona": "Zona Sur",
+        "nombre": "Petco Parque La Mexicana"
+    },
+    {
+        "id":10,	
+        "latitud": 19.35805,
+        "longitud":	-99.17846,
+        "descripcion": "Cadena de comida, artículos, juguetes, camas y ropa para mascotas",
+        "venta": 1000,	
+        "zona": "Zona Norte",
+        "nombre": "Petco Universidad"
+    },
+    {
+        "id":11,	
+        "latitud": 19.29157,
+        "longitud":	-99.16546,
+        "descripcion": "Tienda de  camas y ropa para mascotas con retiro en tienda",
+        "venta": 1500,	
+        "zona": "Zona Centro",
+        "nombre": "Petco Patio Tlalpan"
+    },
+    {
+        "id":12,	
+        "latitud": 19.37466,
+        "longitud":	-99.16662,
+        "descripcion": "Compras en tienda",
+        "venta": 3200,	
+        "zona": "Zona Sur",
+        "nombre": "Petco Pedregal (Express)"
+    },
+    {
+        "id":13,	
+        "latitud": 19.34879,
+        "longitud":	-99.13140,
+        "descripcion": "Entrega a domicilio",
+        "venta": 10000,	
+        "zona": "Zona Norte",
+        "nombre": "Petco Punto MAQ (Express)"
+}
+  
+]
